@@ -1,0 +1,3 @@
+flax==0.3.3
+ml-collections
+tensorflow-gan~=2.0.0
